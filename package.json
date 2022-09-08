@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-breakpoints",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Advanced breakpoint system for TailwindCSS",
   "main": "index.js",
   "repository": "https://github.com/berkaltiok/tailwindcss-breakpoints.git",
