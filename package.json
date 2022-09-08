@@ -13,5 +13,8 @@
     "tailwindcss-plugin",
     "tailwindcss-responsive"
   ],
-  "homepage": "https://github.com/berkaltiok/tailwindcss-breakpoints.git#readme"
+  "homepage": "https://github.com/berkaltiok/tailwindcss-breakpoints.git#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
