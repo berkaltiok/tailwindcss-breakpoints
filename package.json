@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-breakpoints",
+  "version": "1.0.0",
+  "description": "Advanced breakpoint system for TailwindCSS",
+  "main": "index.js",
+  "repository": "https://github.com/berkaltiok/tailwindcss-breakpoints.git",
+  "author": "Berk Altıok <berk@altiok.co>",
+  "license": "MIT",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "tailwindcss-plugin",
+    "tailwindcss-responsive"
+  ],
+  "homepage": "https://github.com/berkaltiok/tailwindcss-breakpoints.git#readme"
+}
